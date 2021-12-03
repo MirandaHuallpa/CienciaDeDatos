@@ -17,8 +17,9 @@ La Ciencia de Datos nos permite usar una gran cantidad datos para generar inform
   <li>Estadísticas: <br>
     Se estima los rangos de incertidumbre de las predicciones y a ls técnicas de manipulación de datos del tipo SQL y No SQL.
   </li>
+</ol>
 
-  <h6>Posee dos singularidades</h6>
+<h6>Posee dos singularidades</h6>
   <ul>
     <li>BIG DATA: <br>
     Se aplica cuando el volumen y complejidad de los datos nos lleva a la necesidad de procesar en paralelo en vez de usar un servidr SQL convencional.
@@ -26,5 +27,4 @@ La Ciencia de Datos nos permite usar una gran cantidad datos para generar inform
     <li>Deep Learning:
       Se sitúa a mitad de camino entre la visión de la Inteligencia Artificial y la de Machine Learning para generar aprendizajes automáticos por etapas que tienen en cuenta la lógica del proceso.
     </li>
-    
-</ol>
+  </ul>
