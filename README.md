@@ -52,3 +52,11 @@ La Ciencia de Datos nos permite usar una gran cantidad datos para generar inform
       <li>Fácil para explicar a otros.</li>
     </ul>
  </ol>
+ 
+ <ol>
+    Gráficas de pastel/torta:
+    <ul>
+      <li>Proporciones como ángulos.</li>
+      <li>Tratar de no hacerlas en 3D.</li>
+    </ul>
+ </ol>
