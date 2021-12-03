@@ -60,10 +60,11 @@ La Ciencia de Datos nos permite usar una gran cantidad datos para generar inform
       <li>Tratar de no hacerlas en 3D.</li>
     </ul>
  </ol>
- 
-<img src="images/grafico1.png">
-<img src="images/grafico2.png">
-<img src="images/grafico3.png">
-<img src="images/grafico4.png">
-<img src="images/grafico5.png">
-<img src="images/grafico6.png">
+<div >
+  <img src="images/grafico1.png" width="400px">
+  <img align="right" src="images/grafico2.png" width="400px">
+  <img src="images/grafico3.png" width="400px">
+  <img align="right"src="images/grafico4.png" width="400px">
+  <img src="images/grafico5.png" width="400px">
+  <img align="right"src="images/grafico6.png" width="400px">
+ </div>
