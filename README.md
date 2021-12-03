@@ -33,7 +33,9 @@ La Ciencia de Datos nos permite usar una gran cantidad datos para generar inform
   
  <h2>Matplotlib</h2>
  Es una librería para gráfico de Python, sirve para crear gráficos 2D y algunos 3D para matemáticas y análisis de datos.
+ 
  <ol>
+    Gràficas de puntos o líneas:
     <ul>
       <li>Gráfica básica.</li>
       <li>Visualización una cantidad considerable de datos.</li>
