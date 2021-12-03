@@ -1,6 +1,8 @@
 # CienciaDeDatos
 La Ciencia de Datos nos permite usar una gran cantidad datos para generar información útil para la toma de decisiones.
 
+<h2>Introducción</h2>
+
 <h4>El aprendizaje de la Ciencia de Datos comprende:</h4>
 <ol>
   <li>Aprendizaje automático o Machine Learning: <br>
@@ -24,7 +26,37 @@ La Ciencia de Datos nos permite usar una gran cantidad datos para generar inform
     <li>BIG DATA: <br>
     Se aplica cuando el volumen y complejidad de los datos nos lleva a la necesidad de procesar en paralelo en vez de usar un servidr SQL convencional.
     </li>
-    <li>Deep Learning:
+    <li>Deep Learning: <br>
       Se sitúa a mitad de camino entre la visión de la Inteligencia Artificial y la de Machine Learning para generar aprendizajes automáticos por etapas que tienen en cuenta la lógica del proceso.
     </li>
   </ul>
+  
+ <h2>Matplotlib</h2>
+ 
+ Es una librería para gráfico de Python, sirve para crear gráficos 2D y algunos 3D para matemáticas y análisis de datos.
+ 
+ <ol>
+    Gráficas de puntos o líneas:
+    <ul>
+      <li>Gráfica básica.</li>
+      <li>Visualización una cantidad considerable de datos.</li>
+      <li>Buena para estudiar tendencias entre variables.</li>
+    </ul>
+ </ol>
+ 
+ <ol>
+    Gráficas de barras:
+    <ul>
+      <li>Buena para conteos.</li>
+      <li>Agrupa datos para resumen.</li>
+      <li>Fácil para explicar a otros.</li>
+    </ul>
+ </ol>
+ 
+ <ol>
+    Gráficas de pastel/torta:
+    <ul>
+      <li>Proporciones como ángulos.</li>
+      <li>Tratar de no hacerlas en 3D.</li>
+    </ul>
+ </ol>
