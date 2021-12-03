@@ -60,3 +60,9 @@ La Ciencia de Datos nos permite usar una gran cantidad datos para generar inform
       <li>Tratar de no hacerlas en 3D.</li>
     </ul>
  </ol>
+ 
+<img src="images/grafico1.png">
+<img src="images/grafico2.png">
+<img src="imagenes_profesionales/screenshots/screen3.png">
+<img src="imagenes_profesionales/screenshots/screen4.png">
+<img src="imagenes_profesionales/screenshots/screen5.png">
