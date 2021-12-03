@@ -1,7 +1,7 @@
 # CienciaDeDatos
 La Ciencia de Datos nos permite usar una gran cantidad datos para generar información útil para la toma de decisiones.
 
-<h4>El aprendizaje de la Ciencia de Datos comprende:</h6>
+<h4>El aprendizaje de la Ciencia de Datos comprende:</h4>
 <ol>
   <li>Aprendizaje automático o Machine Learning: <br>
     Salta de las entradas a las salidas de un modelo predictivo, sin detenerse en la lógica interna del problema real, para aprender a predecir el futuro a partir de los datos disponibles.</li>
@@ -19,7 +19,7 @@ La Ciencia de Datos nos permite usar una gran cantidad datos para generar inform
   </li>
 </ol>
 
-<h6>Posee dos singularidades</h6>
+<h4>Posee dos singularidades</h4>
   <ul>
     <li>BIG DATA: <br>
     Se aplica cuando el volumen y complejidad de los datos nos lleva a la necesidad de procesar en paralelo en vez de usar un servidr SQL convencional.
