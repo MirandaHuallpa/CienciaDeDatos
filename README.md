@@ -43,3 +43,12 @@ La Ciencia de Datos nos permite usar una gran cantidad datos para generar inform
       <li>Buena para estudiar tendencias entre variables.</li>
     </ul>
  </ol>
+ 
+ <ol>
+    Gráficas de barras:
+    <ul>
+      <li>Buena para conteos.</li>
+      <li>Agrupa datos para resumen.</li>
+      <li>Fácil para explicar a otros.</li>
+    </ul>
+ </ol>
