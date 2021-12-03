@@ -3,7 +3,7 @@ La Ciencia de Datos nos permite usar una gran cantidad datos para generar inform
 
 <h4>El aprendizaje de la Ciencia de Datos comprende:</h6>
 <ol>
-  <li>Aprendizaje automático o Machine Learning: 
+  <li>Aprendizaje automático o Machine Learning:\n
     Salta de las entradas a las salidas de un modelo predictivo, sin detenerse en la lógica interna del problema real, para aprender a predecir el futuro a partir de los datos disponibles.</li>
     
   <li>Inteligencia Artificial:
